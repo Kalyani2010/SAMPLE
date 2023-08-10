@@ -1,0 +1,28 @@
+table {
+    border :2px solid black;
+    width:30%;
+    margin: 0 auto;
+}
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #0c0c0c;
+    background-color:white;
+  }
+  
+  th {
+    background-color:white;
+    font-weight: bold;
+    color: #333;
+  }
+  h1{
+    text-align: center;
+  }
+  body {
+    background-image: url("roadimage3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    }
+  
